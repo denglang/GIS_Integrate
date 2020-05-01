@@ -1,0 +1,15 @@
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\bin\Debug\GIS_Integrate.exe.config
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\bin\Debug\GIS_Integrate.exe
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\bin\Debug\GIS_Integrate.pdb
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\bin\Debug\Interop.MapWinGIS.dll
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\bin\Debug\AxInterop.MapWinGIS.dll
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\GIS_Integrate.csprojAssemblyReference.cache
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\Interop.MapWinGIS.dll
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\AxInterop.MapWinGIS.dll
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\GIS_Integrate.csproj.ResolveComReference.cache
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\GIS_Integrate.Form1.resources
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\GIS_Integrate.Properties.Resources.resources
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\GIS_Integrate.csproj.GenerateResource.cache
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\GIS_Integrate.csproj.CoreCompileInputs.cache
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\GIS_Integrate.exe
+D:\VSProject\MWG\GIS_Integrate\GIS_Integrate\obj\Debug\GIS_Integrate.pdb
